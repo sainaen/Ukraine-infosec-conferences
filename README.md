@@ -19,12 +19,6 @@
 - Програма https://www.facebook.com/events/1887825491262791/
 - Реєстрація [EventBrite](https://www.eventbrite.com/e/cloud-security-alliance-lviv-chapter-meetup-1-tickets-42171878223)
 
-### 2018-02-22	[OWASP Dnipro Security meetup #1](https://www.owasp.org/index.php/Dnipro)
-- Веб-сайт https://www.owasp.org/index.php/Dnipro
-- CFP [EasyChair](https://easychair.org/cfp/od_sm1_2018)
-- Програма [Facebook](https://www.facebook.com/events/390549114729552/)
-- Реєстрацію відвідувачів завершено, триває реєстрація на онлайн-трансляцію [EventBrite](https://www.eventbrite.com/e/owasp-dnipro-security-meetup-1-tickets-41684751213)
-
 ### 2018-03-03	[OWASP Kyiv Spring 2018](https://www.owasp.org/index.php/Kyiv)
 - Веб-сайт https://owasp.kyiv.ua
 - Twitter https://twitter.com/owaspKyiv
@@ -50,6 +44,7 @@
 ## Архів
 Дата|Назва|:open_file_folder: Презентації|:video_camera: Відео|Вимагає доповнення
 ---|---|:---:|:---:|:---:
+2018-02-22|[OWASP Dnipro Security meetup #1](events/2018-02-22-owaspdnipro.md)|||
 2017-12-02|[OWASP Kyiv Winter 2017](events/2017-12-02-owaspkyiv.md)|:smiley:|:smiley:
 2017-11-18|[OWASP Lviv "OWASP Ukraine 2017"](events/2017-11-18-owasplviv.md)|:smiley:
 2017-10-22|[UISGCON13](events/2017-10-22-uisgcon13.md)|:smiley:|:smiley:|:exclamation:
