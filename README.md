@@ -38,7 +38,7 @@
 - Facebook https://www.facebook.com/BSidesKyiv/
 - Програма https://securitybsides.org.ua/#schedule
 - Подати заявку [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLScMa6J4kgOegDnFLRWKFePFWuLKUufpNW36-DO9x4BUWs4baw/viewform)
-- Реєстрація розпочнеться 1 березня 2018 р.
+- Реєстрація розпочнеться 5 березня 2018 р.
 
 ### 2018-05-17	[NoNameCon](https://nonamecon.org)
 - Веб-сайт https://nonamecon.org
