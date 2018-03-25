@@ -6,3 +6,6 @@ lang: uk
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-primer
+
+plugins:
+  - jemoji
