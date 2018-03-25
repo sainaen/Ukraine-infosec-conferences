@@ -1,0 +1,5 @@
+# Site settings
+title: Українські конференції з кібер-безпеки
+
+# Build settings
+markdown: kramdown
