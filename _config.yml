@@ -3,4 +3,4 @@ title: Українські конференції з кібер-безпеки
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
