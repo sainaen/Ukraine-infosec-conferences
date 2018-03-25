@@ -1,0 +1,49 @@
+{
+    "title": "OWASP Kyiv Spring 2018 Meetup",
+    "date": "2018-03-03",
+    "links": [
+        { "title": "Офіційний веб-сайт", "url": "https://www.owasp.org/index.php/Kyiv" },
+        { "title": "Архів презентацій", "url": "https://www.owasp.org/index.php/Kyiv#tab=Past_Events" },
+        { "title": "Архів відео", "url": "https://www.youtube.com/playlist?list=PLDLqQj8RuUFvoCYreEtqeNuRLt9pCCdJE" }
+    ],
+    "talks": [
+        {
+            "title": "Crack The Hash Workshop",
+            "speaker": "Serhii Korolenko",
+            "video": "https://www.youtube.com/watch?v=YetkDs-wvTE"
+        }, {
+            "title": "Pentesting Android Apps",
+            "speaker": "Vlad Styran",
+            "video": "https://www.youtube.com/watch?v=vih61eM3DsA"
+        }, {
+            "title": "OWASP Kyiv 2017 Results and 2018 Plans",
+            "speaker": "Vlad Styran",
+            "video": "https://www.youtube.com/watch?v=iFRT5j5yPsY",
+            "slides": "https://www.slideshare.net/owaspKyiv/vlad-styran-owasp-kyiv-2017-report-and-2018-plans"
+        }, {
+            "title": "Why So Serial? Threats to Modern Serialization Capabilities",
+            "speaker": "Vlada Kulish",
+            "video": "https://www.youtube.com/watch?v=QHRBQYSh-aU",
+            "slides": "https://www.slideshare.net/owaspKyiv/vlada-kulish-why-so-serial"
+        }, {
+            "title": "ISC2 & ISACA Certifications First-hand Experience",
+            "speaker": "Roman Borodin",
+            "video": "https://www.youtube.com/watch?v=w9AA5DKTyKI",
+            "slides": "https://www.slideshare.net/owaspKyiv/roman-borodin-isc2-isaca-certification-programs-firsthand-experience"
+        }, {
+            "title": "WebSocket Security",
+            "speaker": "Ihor Bliumental",
+            "video": "https://www.youtube.com/watch?v=ucy98JiE-nU",
+            "slides": "https://www.slideshare.net/owaspKyiv/ihor-bliumental-websockets"
+        }, {
+            "title": "A Struggle to Start a Bug Bounty for a .gov.ua. (via video-call)",
+            "speaker": "Oleksii Dorogan",
+            "video": "https://www.youtube.com/watch?v=pzanY97lcwY"
+        }, {
+            "title": "Phishing Threats to Cloud Users",
+            "speaker": "Yevhen Teleshyk",
+            "video": "https://www.youtube.com/watch?v=zd4PIJSamJY",
+            "slides": "https://www.slideshare.net/owaspKyiv/yevhen-teleshyk-oauth-phishing"
+        }
+    ]
+}

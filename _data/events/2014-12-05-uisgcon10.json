@@ -1,0 +1,59 @@
+{
+    "title": "UISGCON10",
+    "incomplete": true,
+    "date": "2014-12-05",
+    "links": [
+        { "title": "Офіційний веб-сайт", "url": "https://usigcon.org" },
+        { "title": "Архів презентацій", "url": "#TODO" },
+        { "title": "Архів відео", "url": "#TODO" },
+        { "title": "Фотогальбом", "url": "https://plus.google.com/photos/+SergiyRekun/albums/6089863072250352625" }
+    ],
+    "talks": [
+        {
+            "title": "Системная Инженерия для CISO",
+            "speaker": "Володимир Гнінюк",
+            "slides": "https://www.slideshare.net/vgninyuk/uisgcon10-ciso"
+        }, {
+            "title": "«Протиправний контент: блокуємо разом?» Відкрита дискусія за участю представника Управління боротьби з кіберзлочинністю МВС України М. Літвінова",
+            "video": "https://www.youtube.com/watch?v=ZdYwgzUycYo",
+            "links": [
+                { "url": "https://www.facebook.com/ngouisg/posts/387182744768449" }
+            ]
+        }, {
+            "title": "Реформа законодавства ЄС у сфері захисту персональних даних. Наслідки для України",
+            "speaker": "Володимир Козак",
+            "links": [
+                { "url": "https://www.facebook.com/ngouisg/posts/396884390464951" }
+            ]
+        }, {
+            "title": "Кіберзлочинність у 2014 році",
+            "speaker": "Гійом Лове"
+        }, {
+            "title": "PA-DSS 3.0: теорія і практика ",
+            "speaker": "Олег Аксьоненко"
+        }, {
+            "title": "World War C",
+            "speaker": "Kenneth Geers",
+            "links": [
+                { "url": "https://www.facebook.com/ngouisg/posts/380669002086490" },
+                { "url": "https://www.facebook.com/ngouisg/posts/380670212086369" }
+            ]
+        }, {
+            "title": "Кіберзагрози в Україні. Аналіз CERT-UA",
+            "speaker": "Микола Коваль"
+        }, {
+            "title": "?",
+            "speaker": "Філіп Роджбанд"
+        }, {
+            "title": "I want all your traffic !",
+            "speaker": "Adam Brunner",
+            "links": [
+                { "url": "https://www.facebook.com/ngouisg/posts/400355480117842" },
+                { "url": "https://www.facebook.com/ngouisg/posts/400353910117999" }
+            ]
+        }, {
+            "title": "Шахрайське підпілля",
+            "speaker": "Андрій Кузьменко"
+        }
+    ]
+}
